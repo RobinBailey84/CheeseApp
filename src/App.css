@@ -1,0 +1,24 @@
+.header {
+  text-align: center;
+  color: red;
+}
+
+body{
+  background-color: lightblue
+}
+
+.cheese-item{
+  list-style: none;
+  border-style: solid;
+  font-style: italic;
+  padding: 10px;
+  margin: 5px;
+}
+
+.stock-list{
+  list-style: none;
+  border-style: solid;
+  font-style: italic;
+  padding: 10px;
+  margin: 5px;
+}
