@@ -1,6 +1,6 @@
 .header {
   text-align: center;
-  color: red;
+  color: blue;
 }
 
 body{
@@ -21,4 +21,8 @@ body{
   font-style: italic;
   padding: 10px;
   margin: 5px;
+}
+
+.discount{
+  color: red;
 }

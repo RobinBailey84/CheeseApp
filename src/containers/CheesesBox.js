@@ -22,13 +22,13 @@ class CheesesBox extends Component {
           name: "Gorgonzola",
           image: "https://media.gettyimages.com/photos/pieces-of-gorgonzola-cheese-on-chopping-board-picture-id499163113?s=612x612",
           price: 6.99,
-          discount: ""
+          discount: 4.99
         },
         {
           id: 3,
           name: "Brie",
           image: "https://cdn.shopify.com/s/files/1/2836/2982/products/brie-recipe_grande.jpg?v=1533088694",
-          price: 2.50,
+          price: 2.59,
           discount: ""
         },
         {

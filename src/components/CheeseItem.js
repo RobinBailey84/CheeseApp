@@ -6,7 +6,7 @@ return (
   <li className='cheese-item'>
     <p> Name: {this.props.cheese.name} </p>
     <p> Price: £{this.props.cheese.price}</p>
-    <p> Discount Price: £{this.props.cheese.discount}</p>
+    <p className='discount'> Discount Price: £{this.props.cheese.discount}</p>
     <img src={this.props.cheese.image} />
   </li>
 );
